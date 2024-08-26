@@ -1,0 +1,14 @@
+F:\EstacionDeTrabajo_C#_.NET\APISistemaVenta\SistemaVenta.Model\bin\Debug\net8.0\SistemaVenta.Model.deps.json
+F:\EstacionDeTrabajo_C#_.NET\APISistemaVenta\SistemaVenta.Model\bin\Debug\net8.0\SistemaVenta.Model.runtimeconfig.json
+F:\EstacionDeTrabajo_C#_.NET\APISistemaVenta\SistemaVenta.Model\bin\Debug\net8.0\SistemaVenta.Model.dll
+F:\EstacionDeTrabajo_C#_.NET\APISistemaVenta\SistemaVenta.Model\bin\Debug\net8.0\SistemaVenta.Model.pdb
+F:\EstacionDeTrabajo_C#_.NET\APISistemaVenta\SistemaVenta.Model\obj\Debug\net8.0\SistemaVenta.Model.csproj.AssemblyReference.cache
+F:\EstacionDeTrabajo_C#_.NET\APISistemaVenta\SistemaVenta.Model\obj\Debug\net8.0\SistemaVenta.Model.GeneratedMSBuildEditorConfig.editorconfig
+F:\EstacionDeTrabajo_C#_.NET\APISistemaVenta\SistemaVenta.Model\obj\Debug\net8.0\SistemaVenta.Model.AssemblyInfoInputs.cache
+F:\EstacionDeTrabajo_C#_.NET\APISistemaVenta\SistemaVenta.Model\obj\Debug\net8.0\SistemaVenta.Model.AssemblyInfo.cs
+F:\EstacionDeTrabajo_C#_.NET\APISistemaVenta\SistemaVenta.Model\obj\Debug\net8.0\SistemaVenta.Model.csproj.CoreCompileInputs.cache
+F:\EstacionDeTrabajo_C#_.NET\APISistemaVenta\SistemaVenta.Model\obj\Debug\net8.0\SistemaVenta.Model.dll
+F:\EstacionDeTrabajo_C#_.NET\APISistemaVenta\SistemaVenta.Model\obj\Debug\net8.0\refint\SistemaVenta.Model.dll
+F:\EstacionDeTrabajo_C#_.NET\APISistemaVenta\SistemaVenta.Model\obj\Debug\net8.0\SistemaVenta.Model.pdb
+F:\EstacionDeTrabajo_C#_.NET\APISistemaVenta\SistemaVenta.Model\obj\Debug\net8.0\SistemaVenta.Model.genruntimeconfig.cache
+F:\EstacionDeTrabajo_C#_.NET\APISistemaVenta\SistemaVenta.Model\obj\Debug\net8.0\ref\SistemaVenta.Model.dll

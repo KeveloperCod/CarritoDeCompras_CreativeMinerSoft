@@ -1,0 +1,20 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.pdb
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Node.js
+node_modules/
+
+# Logs
+*.log
+
+# Compilaciones
+dist/
+build/

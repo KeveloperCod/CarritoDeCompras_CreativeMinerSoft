@@ -1,0 +1,15 @@
+F:\EstacionDeTrabajo_C#_.NET\APISistemaVenta\SistemaVenda.DAL\bin\Debug\net8.0\SistemaVenta.DAL.deps.json
+F:\EstacionDeTrabajo_C#_.NET\APISistemaVenta\SistemaVenda.DAL\bin\Debug\net8.0\SistemaVenta.DAL.dll
+F:\EstacionDeTrabajo_C#_.NET\APISistemaVenta\SistemaVenda.DAL\bin\Debug\net8.0\SistemaVenta.DAL.pdb
+F:\EstacionDeTrabajo_C#_.NET\APISistemaVenta\SistemaVenda.DAL\bin\Debug\net8.0\SistemaVenta.Model.dll
+F:\EstacionDeTrabajo_C#_.NET\APISistemaVenta\SistemaVenda.DAL\bin\Debug\net8.0\SistemaVenta.Model.pdb
+F:\EstacionDeTrabajo_C#_.NET\APISistemaVenta\SistemaVenda.DAL\obj\Debug\net8.0\SistemaVenta.DAL.csproj.AssemblyReference.cache
+F:\EstacionDeTrabajo_C#_.NET\APISistemaVenta\SistemaVenda.DAL\obj\Debug\net8.0\SistemaVenta.DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\EstacionDeTrabajo_C#_.NET\APISistemaVenta\SistemaVenda.DAL\obj\Debug\net8.0\SistemaVenta.DAL.AssemblyInfoInputs.cache
+F:\EstacionDeTrabajo_C#_.NET\APISistemaVenta\SistemaVenda.DAL\obj\Debug\net8.0\SistemaVenta.DAL.AssemblyInfo.cs
+F:\EstacionDeTrabajo_C#_.NET\APISistemaVenta\SistemaVenda.DAL\obj\Debug\net8.0\SistemaVenta.DAL.csproj.CoreCompileInputs.cache
+F:\EstacionDeTrabajo_C#_.NET\APISistemaVenta\SistemaVenda.DAL\obj\Debug\net8.0\SistemaV.EE7A9206.Up2Date
+F:\EstacionDeTrabajo_C#_.NET\APISistemaVenta\SistemaVenda.DAL\obj\Debug\net8.0\SistemaVenta.DAL.dll
+F:\EstacionDeTrabajo_C#_.NET\APISistemaVenta\SistemaVenda.DAL\obj\Debug\net8.0\refint\SistemaVenta.DAL.dll
+F:\EstacionDeTrabajo_C#_.NET\APISistemaVenta\SistemaVenda.DAL\obj\Debug\net8.0\SistemaVenta.DAL.pdb
+F:\EstacionDeTrabajo_C#_.NET\APISistemaVenta\SistemaVenda.DAL\obj\Debug\net8.0\ref\SistemaVenta.DAL.dll

@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\EstacionDeTrabajo_C#_.NET\\APISistemaVenta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D72E43-73E1-43FE-8C69-5CC3694CED51}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|f:\\estaciondetrabajo_c#_.net\\apisistemaventa\\sistemaventa.bll\\servicios\\dashboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D72E43-73E1-43FE-8C69-5CC3694CED51}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|solutionrelative:sistemaventa.bll\\servicios\\dashboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA010E1D-C75C-4B9B-BB04-8A42883B8461}|SistemaVenta.DTO\\SistemaVenta.DTO.csproj|f:\\estaciondetrabajo_c#_.net\\apisistemaventa\\sistemaventa.dto\\ventassemanadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA010E1D-C75C-4B9B-BB04-8A42883B8461}|SistemaVenta.DTO\\SistemaVenta.DTO.csproj|solutionrelative:sistemaventa.dto\\ventassemanadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA010E1D-C75C-4B9B-BB04-8A42883B8461}|SistemaVenta.DTO\\SistemaVenta.DTO.csproj|f:\\estaciondetrabajo_c#_.net\\apisistemaventa\\sistemaventa.dto\\ventadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA010E1D-C75C-4B9B-BB04-8A42883B8461}|SistemaVenta.DTO\\SistemaVenta.DTO.csproj|solutionrelative:sistemaventa.dto\\ventadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA010E1D-C75C-4B9B-BB04-8A42883B8461}|SistemaVenta.DTO\\SistemaVenta.DTO.csproj|f:\\estaciondetrabajo_c#_.net\\apisistemaventa\\sistemaventa.dto\\dashboarddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA010E1D-C75C-4B9B-BB04-8A42883B8461}|SistemaVenta.DTO\\SistemaVenta.DTO.csproj|solutionrelative:sistemaventa.dto\\dashboarddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D72E43-73E1-43FE-8C69-5CC3694CED51}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|f:\\estaciondetrabajo_c#_.net\\apisistemaventa\\sistemaventa.bll\\servicios\\ventaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D72E43-73E1-43FE-8C69-5CC3694CED51}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|solutionrelative:sistemaventa.bll\\servicios\\ventaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7345494-4075-4D0F-AFC9-81D27A543C60}|SistemaVenta.API\\SistemaVenta.API.csproj|f:\\estaciondetrabajo_c#_.net\\apisistemaventa\\sistemaventa.api\\controllers\\ventacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7345494-4075-4D0F-AFC9-81D27A543C60}|SistemaVenta.API\\SistemaVenta.API.csproj|solutionrelative:sistemaventa.api\\controllers\\ventacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 234,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DashBoardDTO.cs",
+              "DocumentMoniker": "F:\\EstacionDeTrabajo_C#_.NET\\APISistemaVenta\\SistemaVenta.DTO\\DashBoardDTO.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.DTO\\DashBoardDTO.cs",
+              "ToolTip": "F:\\EstacionDeTrabajo_C#_.NET\\APISistemaVenta\\SistemaVenta.DTO\\DashBoardDTO.cs",
+              "RelativeToolTip": "SistemaVenta.DTO\\DashBoardDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T02:30:50.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VentaDTO.cs",
+              "DocumentMoniker": "F:\\EstacionDeTrabajo_C#_.NET\\APISistemaVenta\\SistemaVenta.DTO\\VentaDTO.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.DTO\\VentaDTO.cs",
+              "ToolTip": "F:\\EstacionDeTrabajo_C#_.NET\\APISistemaVenta\\SistemaVenta.DTO\\VentaDTO.cs",
+              "RelativeToolTip": "SistemaVenta.DTO\\VentaDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T02:30:42.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VentasSemanaDTO.cs",
+              "DocumentMoniker": "F:\\EstacionDeTrabajo_C#_.NET\\APISistemaVenta\\SistemaVenta.DTO\\VentasSemanaDTO.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.DTO\\VentasSemanaDTO.cs",
+              "ToolTip": "F:\\EstacionDeTrabajo_C#_.NET\\APISistemaVenta\\SistemaVenta.DTO\\VentasSemanaDTO.cs",
+              "RelativeToolTip": "SistemaVenta.DTO\\VentasSemanaDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T02:30:36.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DashBoardService.cs",
+              "DocumentMoniker": "F:\\EstacionDeTrabajo_C#_.NET\\APISistemaVenta\\SistemaVenta.BLL\\Servicios\\DashBoardService.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.BLL\\Servicios\\DashBoardService.cs",
+              "ToolTip": "F:\\EstacionDeTrabajo_C#_.NET\\APISistemaVenta\\SistemaVenta.BLL\\Servicios\\DashBoardService.cs",
+              "RelativeToolTip": "SistemaVenta.BLL\\Servicios\\DashBoardService.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAcwF8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T02:28:43.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VentaService.cs",
+              "DocumentMoniker": "F:\\EstacionDeTrabajo_C#_.NET\\APISistemaVenta\\SistemaVenta.BLL\\Servicios\\VentaService.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.BLL\\Servicios\\VentaService.cs",
+              "ToolTip": "F:\\EstacionDeTrabajo_C#_.NET\\APISistemaVenta\\SistemaVenta.BLL\\Servicios\\VentaService.cs",
+              "RelativeToolTip": "SistemaVenta.BLL\\Servicios\\VentaService.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAADAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T00:35:17.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VentaController.cs",
+              "DocumentMoniker": "F:\\EstacionDeTrabajo_C#_.NET\\APISistemaVenta\\SistemaVenta.API\\Controllers\\VentaController.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.API\\Controllers\\VentaController.cs",
+              "ToolTip": "F:\\EstacionDeTrabajo_C#_.NET\\APISistemaVenta\\SistemaVenta.API\\Controllers\\VentaController.cs",
+              "RelativeToolTip": "SistemaVenta.API\\Controllers\\VentaController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAowDUAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T00:17:31Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
