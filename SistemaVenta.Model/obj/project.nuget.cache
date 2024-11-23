@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qSkfkhgghWg=",
+  "dgSpecHash": "wEgQ2ht+f8o=",
   "success": true,
-  "projectFilePath": "F:\\EstacionDeTrabajo_C#_.NET\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj",
+  "projectFilePath": "E:\\EstacionDeTrabajo_C#_.NET\\Proyecto_5to_ciclo\\CarritoDeCompras_CreativeMinerSoft\\SistemaVenta.Model\\SistemaVenta.Model.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Danny\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Danny\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

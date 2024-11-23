@@ -2772,11 +2772,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\EstacionDeTrabajo_C#_.NET\\APISistemaVenta\\SistemaVenda.DAL\\SistemaVenta.DAL.csproj",
+      "projectUniqueName": "E:\\EstacionDeTrabajo_C#_.NET\\Proyecto_5to_ciclo\\CarritoDeCompras_CreativeMinerSoft\\SistemaVenda.DAL\\SistemaVenta.DAL.csproj",
       "projectName": "SistemaVenta.DAL",
-      "projectPath": "F:\\EstacionDeTrabajo_C#_.NET\\APISistemaVenta\\SistemaVenda.DAL\\SistemaVenta.DAL.csproj",
+      "projectPath": "E:\\EstacionDeTrabajo_C#_.NET\\Proyecto_5to_ciclo\\CarritoDeCompras_CreativeMinerSoft\\SistemaVenda.DAL\\SistemaVenta.DAL.csproj",
       "packagesPath": "C:\\Users\\Danny\\.nuget\\packages\\",
-      "outputPath": "F:\\EstacionDeTrabajo_C#_.NET\\APISistemaVenta\\SistemaVenda.DAL\\obj\\",
+      "outputPath": "E:\\EstacionDeTrabajo_C#_.NET\\Proyecto_5to_ciclo\\CarritoDeCompras_CreativeMinerSoft\\SistemaVenda.DAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2798,8 +2798,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "F:\\EstacionDeTrabajo_C#_.NET\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj": {
-              "projectPath": "F:\\EstacionDeTrabajo_C#_.NET\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj"
+            "E:\\EstacionDeTrabajo_C#_.NET\\Proyecto_5to_ciclo\\CarritoDeCompras_CreativeMinerSoft\\SistemaVenta.Model\\SistemaVenta.Model.csproj": {
+              "projectPath": "E:\\EstacionDeTrabajo_C#_.NET\\Proyecto_5to_ciclo\\CarritoDeCompras_CreativeMinerSoft\\SistemaVenta.Model\\SistemaVenta.Model.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pfhmSxnW5Yw=",
+  "dgSpecHash": "hKoBeI4shHU=",
   "success": true,
-  "projectFilePath": "F:\\EstacionDeTrabajo_C#_.NET\\APISistemaVenta\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj",
+  "projectFilePath": "E:\\EstacionDeTrabajo_C#_.NET\\Proyecto_5to_ciclo\\CarritoDeCompras_CreativeMinerSoft\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Danny\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Danny\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

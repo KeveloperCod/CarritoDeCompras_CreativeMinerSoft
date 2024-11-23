@@ -1,20 +1,18 @@
-# Visual Studio
+# Excluir carpetas de Visual Studio
 .vs/
+
+# Excluir carpetas de compilación
+obj/
+bin/
+
+# Excluir configuraciones locales
 *.user
 *.suo
-*.userosscache
-*.pdb
 
-# Archivos de sistema
-.DS_Store
-Thumbs.db
+# Excluir archivos temporales de Visual Studio
+*.vsidx
+*.cache
+*.dgspec.json
+*.AssemblyReference.cache
 
-# Node.js
-node_modules/
 
-# Logs
-*.log
-
-# Compilaciones
-dist/
-build/

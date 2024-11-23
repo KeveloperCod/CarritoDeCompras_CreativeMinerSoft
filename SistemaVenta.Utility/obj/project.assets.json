@@ -2849,11 +2849,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\EstacionDeTrabajo_C#_.NET\\APISistemaVenta\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj",
+      "projectUniqueName": "E:\\EstacionDeTrabajo_C#_.NET\\Proyecto_5to_ciclo\\CarritoDeCompras_CreativeMinerSoft\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj",
       "projectName": "SistemaVenta.Utility",
-      "projectPath": "F:\\EstacionDeTrabajo_C#_.NET\\APISistemaVenta\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj",
+      "projectPath": "E:\\EstacionDeTrabajo_C#_.NET\\Proyecto_5to_ciclo\\CarritoDeCompras_CreativeMinerSoft\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj",
       "packagesPath": "C:\\Users\\Danny\\.nuget\\packages\\",
-      "outputPath": "F:\\EstacionDeTrabajo_C#_.NET\\APISistemaVenta\\SistemaVenta.Utility\\obj\\",
+      "outputPath": "E:\\EstacionDeTrabajo_C#_.NET\\Proyecto_5to_ciclo\\CarritoDeCompras_CreativeMinerSoft\\SistemaVenta.Utility\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2875,11 +2875,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "F:\\EstacionDeTrabajo_C#_.NET\\APISistemaVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj": {
-              "projectPath": "F:\\EstacionDeTrabajo_C#_.NET\\APISistemaVenta\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj"
+            "E:\\EstacionDeTrabajo_C#_.NET\\Proyecto_5to_ciclo\\CarritoDeCompras_CreativeMinerSoft\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj": {
+              "projectPath": "E:\\EstacionDeTrabajo_C#_.NET\\Proyecto_5to_ciclo\\CarritoDeCompras_CreativeMinerSoft\\SistemaVenta.DTO\\SistemaVenta.DTO.csproj"
             },
-            "F:\\EstacionDeTrabajo_C#_.NET\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj": {
-              "projectPath": "F:\\EstacionDeTrabajo_C#_.NET\\APISistemaVenta\\SistemaVenta.Model\\SistemaVenta.Model.csproj"
+            "E:\\EstacionDeTrabajo_C#_.NET\\Proyecto_5to_ciclo\\CarritoDeCompras_CreativeMinerSoft\\SistemaVenta.Model\\SistemaVenta.Model.csproj": {
+              "projectPath": "E:\\EstacionDeTrabajo_C#_.NET\\Proyecto_5to_ciclo\\CarritoDeCompras_CreativeMinerSoft\\SistemaVenta.Model\\SistemaVenta.Model.csproj"
             }
           }
         }
